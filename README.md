@@ -11,7 +11,11 @@ It is developed using Python in which just one extra library we are using to dow
 To make executable file of this project 
 `pip install pyinstaller`
 
+# Issue 
+if using pytube video is not able to download then 
+check the 2nd script using youtube_dl library you will ba able to download your video. 
 
+# Welcome to contributors
 
 
 
