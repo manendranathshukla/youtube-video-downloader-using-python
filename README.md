@@ -10,6 +10,8 @@ It is developed using Python in which just one extra library we are using to dow
 `pip install pytube`
 To make executable file of this project 
 `pip install pyinstaller`
+Alternative of pytube
+Install youtube_dl  `pip install youtube_dl`
 
 # Issue 
 if using pytube video is not able to download then 
