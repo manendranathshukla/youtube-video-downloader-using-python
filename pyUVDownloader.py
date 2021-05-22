@@ -61,3 +61,32 @@ button3.grid(row=4, column=3)
 
 
 mainloop()
+
+
+
+
+# Another Library  if pytube is not working
+# Code to Download the video in mp4
+
+# from __future__ import unicode_literals
+# import youtube_dl
+
+# ydl_opts = {
+#     'format':' bestvideo[ext=mp4]+bestaudio[ext=mp4]/mp4',
+#     'outtmpl': 'FULL_LOCATION_TO_OUTPUT_FOLDER/%(title)s.%(ext)s'),
+# }
+
+# with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+#             ydl.download(["https://www.youtube.com/watch?v=gSHlCaG78rc"])
+
+
+
+
+
+
+
+
+
+
+
+
